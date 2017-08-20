@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 110bd9344e0aac44a99da9268ec80c90
+timeCreated: 1453298701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cylinder064
+    100004: Cylinder065
+    100006: Cylinder066
+    100008: Cylinder067
+    100010: Cylinder068
+    100012: Cylinder069
+    100014: Cylinder070
+    100016: Cylinder071
+    100018: Cylinder072
+    100020: Cylinder073
+    100022: Cylinder074
+    100024: Cylinder075
+    100026: Cylinder076
+    100028: Cylinder077
+    100030: Cylinder078
+    100032: Cylinder079
+    100034: Cylinder080
+    100036: Cylinder081
+    100038: //RootNode
+    400000: Box001
+    400002: Cylinder064
+    400004: Cylinder065
+    400006: Cylinder066
+    400008: Cylinder067
+    400010: Cylinder068
+    400012: Cylinder069
+    400014: Cylinder070
+    400016: Cylinder071
+    400018: Cylinder072
+    400020: Cylinder073
+    400022: Cylinder074
+    400024: Cylinder075
+    400026: Cylinder076
+    400028: Cylinder077
+    400030: Cylinder078
+    400032: Cylinder079
+    400034: Cylinder080
+    400036: Cylinder081
+    400038: //RootNode
+    2300000: Box001
+    2300002: Cylinder064
+    2300004: Cylinder065
+    2300006: Cylinder066
+    2300008: Cylinder067
+    2300010: Cylinder068
+    2300012: Cylinder069
+    2300014: Cylinder070
+    2300016: Cylinder071
+    2300018: Cylinder072
+    2300020: Cylinder073
+    2300022: Cylinder074
+    2300024: Cylinder075
+    2300026: Cylinder076
+    2300028: Cylinder077
+    2300030: Cylinder078
+    2300032: Cylinder079
+    2300034: Cylinder080
+    2300036: Cylinder081
+    3300000: Box001
+    3300002: Cylinder064
+    3300004: Cylinder065
+    3300006: Cylinder066
+    3300008: Cylinder067
+    3300010: Cylinder068
+    3300012: Cylinder069
+    3300014: Cylinder070
+    3300016: Cylinder071
+    3300018: Cylinder072
+    3300020: Cylinder073
+    3300022: Cylinder074
+    3300024: Cylinder075
+    3300026: Cylinder076
+    3300028: Cylinder077
+    3300030: Cylinder078
+    3300032: Cylinder079
+    3300034: Cylinder080
+    3300036: Cylinder081
+    4300000: Box001
+    4300002: Cylinder064
+    4300004: Cylinder065
+    4300006: Cylinder066
+    4300008: Cylinder067
+    4300010: Cylinder068
+    4300012: Cylinder069
+    4300014: Cylinder070
+    4300016: Cylinder071
+    4300018: Cylinder072
+    4300020: Cylinder073
+    4300022: Cylinder074
+    4300024: Cylinder075
+    4300026: Cylinder076
+    4300028: Cylinder077
+    4300030: Cylinder078
+    4300032: Cylinder079
+    4300034: Cylinder080
+    4300036: Cylinder081
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
